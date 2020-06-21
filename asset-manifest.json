@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Aly-Weather/static/css/main.75ae9dbb.chunk.css",
+    "main.js": "/Aly-Weather/static/js/main.80154e73.chunk.js",
+    "main.js.map": "/Aly-Weather/static/js/main.80154e73.chunk.js.map",
+    "runtime-main.js": "/Aly-Weather/static/js/runtime-main.25f90982.js",
+    "runtime-main.js.map": "/Aly-Weather/static/js/runtime-main.25f90982.js.map",
+    "static/css/2.494c918c.chunk.css": "/Aly-Weather/static/css/2.494c918c.chunk.css",
+    "static/js/2.7b8836e3.chunk.js": "/Aly-Weather/static/js/2.7b8836e3.chunk.js",
+    "static/js/2.7b8836e3.chunk.js.map": "/Aly-Weather/static/js/2.7b8836e3.chunk.js.map",
+    "index.html": "/Aly-Weather/index.html",
+    "precache-manifest.b9704179086141bf06a2afec8025fbee.js": "/Aly-Weather/precache-manifest.b9704179086141bf06a2afec8025fbee.js",
+    "service-worker.js": "/Aly-Weather/service-worker.js",
+    "static/css/2.494c918c.chunk.css.map": "/Aly-Weather/static/css/2.494c918c.chunk.css.map",
+    "static/css/main.75ae9dbb.chunk.css.map": "/Aly-Weather/static/css/main.75ae9dbb.chunk.css.map",
+    "static/js/2.7b8836e3.chunk.js.LICENSE.txt": "/Aly-Weather/static/js/2.7b8836e3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Aly-Weather/static/media/pexels-photo-1187974.b60a461d.jpeg",
+    "static/media/weather-icons.css": "/Aly-Weather/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f90982.js",
+    "static/css/2.494c918c.chunk.css",
+    "static/js/2.7b8836e3.chunk.js",
+    "static/css/main.75ae9dbb.chunk.css",
+    "static/js/main.80154e73.chunk.js"
+  ]
+}
