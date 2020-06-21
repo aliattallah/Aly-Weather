@@ -16,6 +16,7 @@
     "weather-icons-react": "^1.2.0"
   },
   "scripts": {
+    "start": "export HTTPS=true&&PORT=3000 react-scripts start", 
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
